@@ -1,0 +1,13 @@
+{
+  "name": "framer-portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio website",
+  "main": "index.html",
+  "scripts": {
+    "start": "echo 'Server started'",
+    "build": "echo 'Build complete'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
